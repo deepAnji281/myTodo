@@ -1,0 +1,15 @@
+.todo-packages{
+    display: flex;
+}
+.h1{
+    background-color: pink;
+    text-transform: capitalize;
+    font-style: italic;
+    height: 30px;
+    width: auto;
+    font-size: large;
+    margin-left: 60px;
+    border-radius: 3px;
+}
+
+
